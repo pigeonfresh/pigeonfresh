@@ -1,5 +1,5 @@
 ### Hi there 👋
-Frontend developer with a passion for UI/UX and a caffeine dependence.
+Frontend developer with a passion for UI/UX and a caffeine dependence.  
 ☕ 🧉 🌱
 
 <!--
