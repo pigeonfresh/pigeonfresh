@@ -1,4 +1,6 @@
 ### Hi there 👋
+Frontend developer with a passion for UI/UX and a caffeine dependence.
+☕ 🧉 🌱
 
 <!--
 **pigeonfresh/pigeonfresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
